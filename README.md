@@ -58,9 +58,7 @@
   📂 Git  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40"/>
 </p>
 
-<p align="center">
-  <em>(Warning: these tools may cause sudden pipeline explosions... or beautiful deployments. 50/50 chance ⚠️😂)</em>
-</p>
+
 
 <br><br><br>
 
